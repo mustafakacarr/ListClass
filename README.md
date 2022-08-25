@@ -1,2 +1,2 @@
 # ListClass
-*Generic sınıf kullanarak ArrayList kütüphanesinden yapmış olduğum basit generic list projesi.*
+*Generic sınıf kullanarak ArrayList kütüphanesinden yararlanarak yapmış olduğum basit generic list projesi.*
