@@ -14,7 +14,7 @@ public class Main {
         liste.getList().add(60);
         liste.getList().add(70);
 
-        System.out.println("liste.getList() Durumu : " + (liste.getList().isEmpty() ? "Boş" : "Dolu"));
+        System.out.println("Liste Durumu : " + (liste.getList().isEmpty() ? "Boş" : "Dolu"));
 
         // Bulduğu ilk indeksi verir
         System.out.println("Indeks : " + liste.getList().indexOf(20));
